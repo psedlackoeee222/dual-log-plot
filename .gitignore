@@ -2,5 +2,5 @@ cat > .gitignore << 'EOF'
 .venv/
 __pycache__/
 *.pyc
-# *.csv
+#*.csv
 EOF
